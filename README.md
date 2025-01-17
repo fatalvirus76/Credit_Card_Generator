@@ -26,7 +26,7 @@ Track 1: %B4581094387473707^CARDHOLDER/3008^101?
 Track 2: ;4581094387473707=3008101?
 
 #cc.py
-start cc.py with python cc.py command and it will generate visa, mastercard, amex or dscovery
+start cc.py with python cc.py command and it will generate visa, mastercard, amex or discovery
 
 example
 
